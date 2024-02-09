@@ -1,8 +1,8 @@
-import Promise from '../../components/Promise/Promise';
+import PromiseComp from '../../components/PromiseComp/PromiseComp';
 
 const PromisePage = () => {
     return (
-        <Promise/>
+        <PromiseComp/>
     )
 };
 
